@@ -1,0 +1,50 @@
+# ==================== Visual Studio / JetBrains cache ====================
+.vs/
+.idea/
+*.ipdb
+*.iobj
+*.tlog
+*.recipe
+*.lastbuildstate
+*.FileListAbsolute.txt
+*.ipch
+*.VC.db
+*.pdb
+*.obj
+*.exe
+*.dll
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vsp
+*.esd
+*.log
+**/x64/
+**/Debug/
+**/Release/
+
+# ==================== Android / Gradle ====================
+.gradle/
+build/
+captures/
+*.apk
+*.aab
+local.properties
+.kotlin/
+
+# ==================== Python / AI ====================
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+dist/
+*.egg-info/
+
+# ==================== Large files / logs ====================
+*.db
+*.tmp
+*.nupkg
+server/packages/
